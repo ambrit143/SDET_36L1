@@ -14,5 +14,9 @@ public class PracticeTest1 {
 
       Reporter.log("i am Executing the Test2",true);
       }
+      public void display3() {
+
+          Reporter.log("i am doing pull ",true);
+          }
 
 }

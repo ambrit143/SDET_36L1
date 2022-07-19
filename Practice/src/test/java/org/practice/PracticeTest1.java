@@ -7,7 +7,7 @@ public class PracticeTest1 {
       @Test
       public void display() {
 
-      Reporter.log("Executing Test1",true);
+      Reporter.log("Executing the Test1",true);
       }
       @Test
       public void display2() {

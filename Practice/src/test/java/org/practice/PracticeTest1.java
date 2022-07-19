@@ -12,7 +12,7 @@ public class PracticeTest1 {
       @Test
       public void display2() {
 
-      Reporter.log("Executing Test2",true);
+      Reporter.log("Executing the Test2",true);
       }
 
 }

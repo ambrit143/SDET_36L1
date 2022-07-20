@@ -20,7 +20,7 @@ public class PracticeTest1 {
           }
       public void display4() {
 
-          Reporter.log("i am doing push ",true);
+          Reporter.log("i am doing jenkin ",true);
           }
 
 }

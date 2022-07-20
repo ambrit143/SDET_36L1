@@ -5,6 +5,8 @@
     <classes>
       <class name="org.practice.PracticeTest1"/>
       <class name="org.practice.PracticeTest2"/>
+      <class name="org.practice.JenkinParameterizationTest"/>
+      <class name="org.practice.PracticeTest3"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -19,10 +19,14 @@ public class PracticeTest1 {
       Reporter.log("i am Executing the Test2",true);
 
       }
-    
+    //Testing jenkin continous integration   
       public void display4() {
 
           Reporter.log("i am doing jenkin integration ",true);
+          }
+      public void display5() {
+
+          Reporter.log("i am doing jenkin integration1 ",true);
           }
 
 }

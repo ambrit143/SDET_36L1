@@ -18,5 +18,9 @@ public class PracticeTest1 {
 
           Reporter.log("i am doing pull ",true);
           }
+      public void display4() {
+
+          Reporter.log("i am doing push ",true);
+          }
 
 }
